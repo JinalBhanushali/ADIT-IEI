@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JinalBhanushali/ADIT-IEI.git/static/css/main.19bf4666.chunk.css",
+    "main.js": "/JinalBhanushali/ADIT-IEI.git/static/js/main.05725f40.chunk.js",
+    "main.js.map": "/JinalBhanushali/ADIT-IEI.git/static/js/main.05725f40.chunk.js.map",
+    "runtime-main.js": "/JinalBhanushali/ADIT-IEI.git/static/js/runtime-main.6a3f8347.js",
+    "runtime-main.js.map": "/JinalBhanushali/ADIT-IEI.git/static/js/runtime-main.6a3f8347.js.map",
+    "static/js/2.401f563a.chunk.js": "/JinalBhanushali/ADIT-IEI.git/static/js/2.401f563a.chunk.js",
+    "static/js/2.401f563a.chunk.js.map": "/JinalBhanushali/ADIT-IEI.git/static/js/2.401f563a.chunk.js.map",
+    "index.html": "/JinalBhanushali/ADIT-IEI.git/index.html",
+    "precache-manifest.6586a794439f526bf041b13e9fa3e214.js": "/JinalBhanushali/ADIT-IEI.git/precache-manifest.6586a794439f526bf041b13e9fa3e214.js",
+    "service-worker.js": "/JinalBhanushali/ADIT-IEI.git/service-worker.js",
+    "static/css/main.19bf4666.chunk.css.map": "/JinalBhanushali/ADIT-IEI.git/static/css/main.19bf4666.chunk.css.map",
+    "static/js/2.401f563a.chunk.js.LICENSE.txt": "/JinalBhanushali/ADIT-IEI.git/static/js/2.401f563a.chunk.js.LICENSE.txt",
+    "static/media/event2.jpg": "/JinalBhanushali/ADIT-IEI.git/static/media/event2.b10969c6.jpg",
+    "static/media/happy.gif": "/JinalBhanushali/ADIT-IEI.git/static/media/happy.70f976fa.gif",
+    "static/media/iei_logo.png": "/JinalBhanushali/ADIT-IEI.git/static/media/iei_logo.ce672444.png",
+    "static/media/join.gif": "/JinalBhanushali/ADIT-IEI.git/static/media/join.e0ea88c5.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3f8347.js",
+    "static/js/2.401f563a.chunk.js",
+    "static/css/main.19bf4666.chunk.css",
+    "static/js/main.05725f40.chunk.js"
+  ]
+}
